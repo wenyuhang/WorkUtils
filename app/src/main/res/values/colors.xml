@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+
+    <!--white-->
+    <color name="white_a_color">#ffffff</color>
+
+    <!--black-->
+    <color name="black_a_color">#3d3d3d</color>
+
+
+    <!--gray-->
+    <color name="gray_a_color">#f1f1f1</color>
+    <color name="gray_b_color">#999999</color>
+    <color name="gray_c_color">#c1c1c1</color>
+
+
+
+
+    <!--Orange-->
+    <color name="orange_a_color">#ffc047</color>
+    <color name="orange_b_color">#fff43c</color>
+    <color name="orange_c_color">#ff6316</color>
+    <color name="orange_d_color">#ff9d12</color>
+    <color name="orange_e_color">#ff6114</color>
+    <color name="orange_f_color">#ff9344</color>
+
+    <!--brown-->
+    <color name="brown_a_color">#6f3f00</color>
+    <color name="brown_b_color">#995e11</color>
+
+
+    <!--yellow-->
+    <color name="yellow_a_color">#ffe71f</color>
+    <color name="yellow_b_color">#ffcf3b</color>
+    <color name="yellow_c_color">#fff1c3</color>
+    <color name="yellow_d_color">#ffdd00</color>
+    <color name="yellow_e_color">#fff83b</color>
+    <color name="yellow_f_color">#ffe13d</color>
+    <color name="yellow_g_color">#ffe63e</color>
+
+
+
+    <!--red-->
+    <color name="red_a_color">#ff3153</color>
+    <color name="red_b_color">#ff5555</color>
+    <color name="red_c_color">#eb4349</color>
+    <color name="red_d_color">#ff3f3f</color>
+    <color name="red_e_color">#ff2e29</color>
+
+
+    <!--green-->
+    <color name="green_a_color">#08d315</color>
+    <color name="green_b_color">#37d300</color>
+    <color name="green_c_color">#12c300</color>
+    <color name="green_d_color">#76d826</color>
+
+
+    <!--violet-->
+    <color name="violet_a_color">#a381ff</color>
+    <color name="violet_b_color">#6464f1</color>
+    <color name="violet_c_color">#9524ff</color>
+
+
+    <color name="TransparentGrey">#7F000000</color>
+
+
+
+    <color name="colorBg">#f5f5f5</color>
+    <color name="colorBlack33">#333333</color>
+    <color name="pink_fc4f74">#fc4f74</color>
+
+    <color name="cool_green_normal">#4caf50</color>
+    <color name="cool_green_shade">#81c784</color>
+
+    <color name="tab_bottom_normal">#999999</color>
+    <color name="tab_bottom_selected">#46c01b</color>
+    <color name="github_color">#24292E</color>
+
+    <color name="ripple_color_f2f2f2">#33f2f2f2</color>
+
+</resources>
